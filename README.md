@@ -1,4 +1,4 @@
-# AI-Bo
+# AI-Bo Source
 Source code for Ludum Dare 46 submission
 
 PROJECT AI-Bo:
