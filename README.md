@@ -1,5 +1,5 @@
 # AI-Bo Source
-Source code for Ludum Dare 46 submission
+Source code for Ludum Dare 46 submission. An executable version of the game fit with all the necessary image files is stored in the zip file. The game source, for easy reading, has a secondary copy in the main directory.
 
 PROJECT AI-Bo:
 
